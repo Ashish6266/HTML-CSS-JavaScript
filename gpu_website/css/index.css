@@ -1,0 +1,13 @@
+.nvidia {
+   width: 50%;
+   position: absolute;
+   left: 0px;
+   height: 100%;
+}
+
+.amd {
+   width: 50%;
+   position: absolute;
+   right: 0px;
+   height: 100%;
+}
